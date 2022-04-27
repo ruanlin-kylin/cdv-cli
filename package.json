@@ -1,0 +1,35 @@
+{
+  "name": "cdv-cli",
+  "version": "1.0.0",
+  "description": "自定义的 vue 脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "cdv": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "keywords": [
+    "vue",
+    "脚手架",
+    "开发模板"
+  ],
+  "author": {
+    "name": "ruanlin",
+    "email": "ruanlin.kylin@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.1",
+    "commander": "^9.2.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.2",
+    "ora": "^6.1.0"
+  }
+}
