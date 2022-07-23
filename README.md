@@ -4,9 +4,11 @@
 
 具体可以查看链接：
 
-[vue3+vite 多页模板](https://github.com/ruanlin-kylin/vue3-vite-multiple-page)；
+[vue3+vite 多页模板（pc）](https://github.com/dv-cli/vue3-vite-multiple-page)；
 
-[vue3+vite 单页模板](https://github.com/ruanlin-kylin/vue3-ts-vite)；
+[vue3+vite 单页模板（pc）](https://github.com/dv-cli/vue3-ts-vite)；
+
+[vue3+vite 单页模板（H5）](https://github.com/dv-cli/vue3-ts-vite-h5)；
 
 ### 安装脚手架
 
