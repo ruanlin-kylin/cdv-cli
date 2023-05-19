@@ -1,6 +1,6 @@
 {
   "name": "cdv-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue3 脚手架工具，提供单页和多页模板",
   "main": "index.js",
   "bin": {
