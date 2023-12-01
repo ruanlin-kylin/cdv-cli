@@ -10,6 +10,8 @@
 
 [vue3+vite 单页模板（H5）](https://github.com/dv-cli/vue3-ts-vite-h5)；
 
+[vue3+vite 单页模板（H5）](https://github.com/dv-cli/taro-vue3)；
+
 ### 安装脚手架
 
 ```javascript
