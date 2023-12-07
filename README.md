@@ -33,7 +33,7 @@ cdv create <projectName> [-f|--force]
 // 1) 通过该指令可在当前目录下载开发模板
 // 2) 如果<projectName>存在，提供 Overwrite(覆盖) 和 Cancel(取消) 两种选择，选择Overwrite，则覆盖
 // 3) [-f|--force] 会强制覆盖
-// 4) 目前提供了两种模板选择下载  单页模板（vue3-ts-vite）  多页模板（vue3-vite-multiple-page）
+// 4) 目前提供了多种模板可供选择
 
 cdv --help  // 查看脚手架指令
 ```
