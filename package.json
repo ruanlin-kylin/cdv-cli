@@ -1,6 +1,6 @@
 {
   "name": "cdv-cli",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "vue3 脚手架工具，提供单页和多页模板",
   "main": "index.js",
   "bin": {
@@ -18,11 +18,19 @@
     "脚手架",
     "开发模板"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanlin-kylin/cdv-cli"
+  },
   "author": {
     "name": "ruanlin",
     "email": "ruanlin.kylin@gmail.com"
   },
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanlin-kylin/cdv-cli/issues"
+  },
+  "homepage": "https://github.com/ruanlin-kylin/cdv-cli#readme",
   "dependencies": {
     "axios": "^0.26.1",
     "chalk": "^4.1.1",
